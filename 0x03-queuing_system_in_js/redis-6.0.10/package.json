@@ -1,0 +1,15 @@
+{
+  "name": "redis-6.0.10",
+  "version": "1.0.0",
+  "description": "This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
